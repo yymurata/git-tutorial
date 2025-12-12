@@ -1,8 +1,3 @@
 print('Hello')
 print('Hello Hello')
 print('New Line!')
-print('2nd New Line!')
-print('3rd New Line!')
-print('4th New Line!')
-print('5th New Line!')
-print('6th New Line!')
